@@ -1,0 +1,1 @@
+IGNORE_HORIZON = -1 # used to indicate that the game environment will be played without a fixed horizon
